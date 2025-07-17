@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@haenin/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@haenin/posts"> </a>
          <a href=https://www.notion.so/231f79a9c53d80218853ebc0fcc339f7> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/231f79a9c53d80218853ebc0fcc339f7"> </a>
-          </div>  <br> 
+          </div>  <br> <br>
     </a>
        </div> 
     </div>
