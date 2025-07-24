@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddb0c6,100:ddb0c6&height=180&text=👀%20You%20found%20me!%20&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddb0c6,100:ddb0c6&height=180&text=👀%20hello%20%20!%20&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
