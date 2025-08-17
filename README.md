@@ -1,5 +1,4 @@
 
-
 <!--
 **haenin/haenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... sdd
 - ⚡ Fun fact: ...s
---> dsdsdsd
+--> 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddb0c6,100:ddb0c6&height=180&text=👀%20hello%20%20!%20&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
