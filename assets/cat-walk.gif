@@ -1,0 +1,50 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Hello Kitty Walk</title>
+<style>
+:root{
+  --frame-w: 128px;   /* 한 프레임 너비 */
+  --frame-h: 128px;   /* 한 프레임 높이 */
+  --frames: 8;        /* 총 프레임 수 */
+  --fps: 12;          /* 애니메 프레임 속도 */
+  --walk-speed: 8s;   /* 화면 가로질러 걷는 시간 */
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{
+  display:grid; place-items:end center; background:#fff; overflow:hidden;
+  font-family:system-ui,Apple SD Gothic Neo,Segoe UI,Roboto,Helvetica,Arial;
+}
+.kitty{
+  width:var(--frame-w); height:var(--frame-h);
+  background:
+    url("./assets/hello-kitty-sprite.png") left center /
+    calc(var(--frame-w) * var(--frames)) var(--frame-h) no-repeat;
+  /* 필요시 픽셀감 살리기: */
+  image-rendering: -webkit-optimize-contrast; image-rendering: pixelated;
+
+  /* 1) 프레임 넘기기 2) 좌→우→좌 이동 + 반전 */
+  animation:
+    steps-anim calc(1s * var(--frames) / var(--fps)) steps(var(--frames)) infinite,
+    move var(--walk-speed) linear infinite;
+  position:relative;
+}
+@keyframes steps-anim{
+  from { background-position-x: 0; }
+  to   { background-position-x: calc(-1 * var(--frame-w) * var(--frames)); }
+}
+@keyframes move{
+  0%   { transform: translateX(-60vw) scaleX(1); }
+  50%  { transform: translateX(60vw)  scaleX(1); }
+  50.01% { transform: translateX(60vw) scaleX(-1); } /* 방향 전환 */
+  100% { transform: translateX(-60vw) scaleX(-1); }
+}
+.shadow{
+  width:60%; height:10px; background:#0003; border-radius:50%; filter:blur(2px);
+  margin:8px auto; animation: move var(--walk-speed) linear infinite;
+}
+</style>
+
+<!-- 고양이(헬로키티 스프라이트) & 그림자 -->
+<div class="kitty" title="Hello Kitty walking"></div>
+<div class="shadow" aria-hidden="true"></div>
