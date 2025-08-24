@@ -3,6 +3,5 @@
 <img
   src="https://render.gitanimals.org/farms/haenin"
   width="600"
-  height="300"
-/>
+  height="300"/>
 </a>
