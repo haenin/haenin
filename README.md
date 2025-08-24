@@ -1,4 +1,2 @@
 
-<div align="center">
-  <img src="assets/cat-walk.gif" alt="walking cat" height="60" />
-</div>
+[<img src="assets/kitty-walk.gif" alt="walking kitty" height="60" />](https://haenin.github.io/readme-playground/)
