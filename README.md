@@ -18,8 +18,8 @@
 
 **Programming Languages:**
 
-[![Code C](https://img.shields.io/badge/Code-C-ffffff?logo=c&logoColor=000000&style=flat)]()
-![Java](https://img.shields.io/badge/Code-Java-ffffff?logo=openjdk&logoColor=000000&style=flat)
+![Code C](https://img.shields.io/badge/Code-C-ffffff?logoColor=000000&style=flat)
+![Java](https://img.shields.io/badge/Code-Java-ffffff?logoColor=000000&style=flat)
 
 
 
