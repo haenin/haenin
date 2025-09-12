@@ -11,7 +11,7 @@
 
 **studying** :
 
-[![Notion](https://img.shields.io/badge/Notion-ffffff?logo=notion&logoColor=000000&style=flat)(https://www.notion.so/haeone-s-devlog-26cf79a9c53d8085bb8bf434c8b1a772)
+[![Notion](https://img.shields.io/badge/Notion-ffffff?logo=notion&logoColor=000000&style=flat)](https://www.notion.so/haeone-s-devlog-26cf79a9c53d8085bb8bf434c8b1a772)
 [![Tistory](https://img.shields.io/badge/Tistory-ffffff?logo=tistory&logoColor=000000&style=flat)](https://haenin.tistory.com)
 
 
