@@ -9,7 +9,7 @@
 
 
 
-**studying** :
+**dev log** :
 [![Tistory](https://img.shields.io/badge/Tistory-ffffff?logo=tistory&logoColor=000000&style=flat)](https://haenin.tistory.com)
 
 
