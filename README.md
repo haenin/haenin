@@ -12,7 +12,7 @@
 **Programming Languages:** ![Code C](https://img.shields.io/badge/Code-C-ffffff?logoColor=000000&style=flat)
 ![Java](https://img.shields.io/badge/Code-Java-ffffff?logoColor=000000&style=flat)
 <br><br>
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haenin" width="200"/>](https://solved.ac/haenin)
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haenin" width="250"/>](https://solved.ac/haenin)
 
 
 
