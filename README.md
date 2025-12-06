@@ -8,7 +8,7 @@
 
 **devlog** :
 [![Tistory](https://img.shields.io/badge/Tistory-ffffff?logo=tistory&logoColor=000000&style=flat)](https://haenin.tistory.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=ffffff&style=flat)](https://velog.io/@haenin/posts)
+[![Velog](https://img.shields.io/badge/Velog-eeeeee?logo=velog&logoColor=000000&style=flat)](https://velog.io/@haenin/posts)
 
 
 **Programming Languages:** 
