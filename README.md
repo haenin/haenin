@@ -7,6 +7,7 @@
 </a><br><br>
 
 **devlog** :
+[![Notion](https://img.shields.io/badge/Notion-ffffff?logo=notion&logoColor=000000&style=flat)](https://east-firefly-9e2.notion.site/haeone-s-dev-208f79a9c53d834e943001878e080683)
 [![Tistory](https://img.shields.io/badge/Tistory-ffffff?logo=tistory&logoColor=000000&style=flat)](https://haenin.tistory.com)
 [![Velog](https://img.shields.io/badge/Velog-eeeeee?logo=velog&logoColor=000000&style=flat)](https://velog.io/@haenin/posts)
 
@@ -15,10 +16,6 @@
 ![Code C](https://img.shields.io/badge/Code-C-ffffff?logoColor=000000&style=flat)
 ![Java](https://img.shields.io/badge/Code-Java-ffffff?logoColor=000000&style=flat)
 <br><br>
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haenin" width="250"/>](https://solved.ac/haenin)
-
-
-
 
 
 
