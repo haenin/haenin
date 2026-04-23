@@ -9,7 +9,7 @@
 **devlog** :
 [![Notion](https://img.shields.io/badge/Notion-ffffff?logo=notion&logoColor=000000&style=flat)](https://east-firefly-9e2.notion.site/haeone-s-dev-208f79a9c53d834e943001878e080683)
 [![Tistory](https://img.shields.io/badge/Tistory-ffffff?logo=tistory&logoColor=000000&style=flat)](https://haenin.tistory.com)
-[![Velog](https://img.shields.io/badge/Velog-eeeeee?logo=velog&logoColor=000000&style=flat)](https://velog.io/@haenin/posts)
+[![Velog](https://img.shields.io/badge/Velog-ffffff?logo=velog&logoColor=000000&style=flat)](https://velog.io/@haenin/posts)
 
 
 **Programming Languages:** 
